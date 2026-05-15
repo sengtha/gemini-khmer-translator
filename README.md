@@ -21,3 +21,9 @@ An open-source, AI-powered pipeline that automatically translates English video 
    ```bash
    git clone [https://github.com/yourusername/gemini-khmer-translator.git](https://github.com/yourusername/gemini-khmer-translator.git)
    cd gemini-khmer-translator
+2. Install the required Python dependencies:
+   ```bash
+   pip install google-genai moviepy
+3. Insert your API Key:
+Open the scripts and replace "YOUR_API_KEY_HERE" with your actual Gemini API key.
+
